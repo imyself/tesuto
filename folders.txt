@@ -1,0 +1,13 @@
+docs: Stores design docs, tech specs, milestone criteria, etc.
+
+assets: stores raw art, animation, sound files. These are NOT used by the game directly, but are resources for the art team.
+
+game: stores formatted art assets that the game actually uses, 
+
+source: stores the source code. Also stores the Visual Studio project solution.
+
+temp: stores temporary files from the build targets.
+
+game: holds the release build and every game data file that is needed for the game to run.
+
+test: stores "special files" for the testing team, like test scripts, cheat codes, and test logs.
